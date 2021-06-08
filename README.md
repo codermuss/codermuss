@@ -4,15 +4,15 @@
 
 ## Flutter | Web
 
-<font color="purple">I play with computers. '<code/>'</font>
+
 
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webauthn.svg" />][web]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg"/>][instagram]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webauthn.svg"/>][web]
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
 
 <br/>
 <br/>
@@ -33,17 +33,33 @@
 <br/>
 <br/>
 
-
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Telsiz Duyarga Ağları](https://www.mustafa-yilmaz.dev/telsiz-duyarga-aglari/)
 - [Bir Process’in Durum Diyagramı ve Geçiş Durumları](https://www.mustafa-yilmaz.dev/bir-processin-durum-diyagrami/)
 - [Maksimum Alt Dizi Toplamı Problemi](https://www.mustafa-yilmaz.dev/maksimum-alt-dizi-toplami-problemi/)
 <!-- BLOG-POST-LIST:END -->
+
+
+
 <br/>
 <br/>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=mustafayilmazdev&theme=radical">
+
+
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayilmazdev&theme=radical">
+
+
+
+
+
+
 [instagram]: https://www.instagram.com/themustik/
 [web]: https://www.mustafa-yilmaz.dev
 [linkedin]: https://www.linkedin.com/in/mustafa-yılmaz-dev/
