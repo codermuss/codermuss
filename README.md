@@ -4,16 +4,16 @@
 
 ## Flutter | Web
 
-<font color="purple">I play with computers. '<code/>'</font>
+# I play with computers.
 
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />] [instagram]
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" /> [instagram]
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webauthn.svg" />] [web]
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webauthn.svg" /> [web]
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />] [linkedin]
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /> [linkedin]
 
 <br/>
 <br/>
@@ -34,16 +34,8 @@
 <br/>
 <br/>
 
-# Latest Blog Posts
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END
-
-
-
-<br/>
-<br/>
 <details>
-<summary>:bulb: Github Stats  </summary>
+<summary>Github Stats  </summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mustafayilmazdev&theme=radical">
 
@@ -51,7 +43,7 @@ BLOG-POST-LIST:END
 </details>
 
 <details>
-<summary>:bulb: Most Used Languages </summary>
+<summary>Most Used Languages </summary>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayilmazdev&theme=radical">
 
