@@ -35,6 +35,9 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Telsiz Duyarga Ağları](https://www.mustafa-yilmaz.dev/telsiz-duyarga-aglari/)
+- [Bir Process’in Durum Diyagramı ve Geçiş Durumları](https://www.mustafa-yilmaz.dev/bir-processin-durum-diyagrami/)
+- [Maksimum Alt Dizi Toplamı Problemi](https://www.mustafa-yilmaz.dev/maksimum-alt-dizi-toplami-problemi/)
 <!-- BLOG-POST-LIST:END -->
 
 
