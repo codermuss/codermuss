@@ -9,10 +9,10 @@
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webauthn.svg" />][web]
+[<img height="32" width="25" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img height="32" width="25" src="https://unpkg.com/simple-icons@v5/icons/webauthn.svg" />][web]
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="25" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
 <br/>
 <br/>
