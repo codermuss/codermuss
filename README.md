@@ -4,16 +4,20 @@
 
 ## Flutter | Web
 
+<font color="purple">I play with computers. '<code/>'</font>
+
+
 ### Reach out to me
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webauthn.svg" />][web]
+
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
-
+<br/>
+<br/>
 
 ### Tech I Use
-
 <img color="white" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30">
@@ -21,8 +25,13 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30">
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="30">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30">
+
+
+<br/>
+<br/>
 
 
 # Latest Blog Posts
