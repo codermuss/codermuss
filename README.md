@@ -4,7 +4,7 @@
 
 ## Flutter | Web
 
-<font color="purple">I play with computers. '<code/>'</font>
+<font color="purple">I play with computers.'<code/>'</font>
 
 
 ### Reach out to me
