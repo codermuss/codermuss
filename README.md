@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Mustafa. 😃
 
-## Flutter | Web
+## Flutter | Golang
 
 # I play with computers.
 # Writing is also a reading.
