@@ -34,9 +34,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Telsiz Duyarga Ağları](https://www.mustafa-yilmaz.dev/telsiz-duyarga-aglari/)
-- [Bir Process’in Durum Diyagramı ve Geçiş Durumları](https://www.mustafa-yilmaz.dev/bir-processin-durum-diyagrami/)
-- [Maksimum Alt Dizi Toplamı Problemi](https://www.mustafa-yilmaz.dev/maksimum-alt-dizi-toplami-problemi/)
+- [Stacked Zamanı — Bölüm 5: Stilleri Yönetme ve flutter_screenutil ile Responsive Tasarım](https://codermuss.medium.com/stacked-zaman%C4%B1-b%C3%B6l%C3%BCm-5-stilleri-y%C3%B6netme-ve-flutter-screenutil-ile-responsive-tasar%C4%B1m-94912b23dd74?source=rss-89dc203e59e1------2)
+- [Stacked Zamanı — Bölüm 4: UI Kit Belirlenmesi, Tema ve Stil Yönetimi&lpar;2&rpar;](https://codermuss.medium.com/stacked-zaman%C4%B1-b%C3%B6l%C3%BCm-4-ui-kit-belirlenmesi-tema-ve-stil-y%C3%B6netimi-2-8c377abd9b3d?source=rss-89dc203e59e1------2)
+- [Stacked Zamanı — Bölüm 3: UI Kit Belirlenmesi, Tema ve Stil Yönetimi&lpar;1&rpar;](https://codermuss.medium.com/stacked-zaman%C4%B1-b%C3%B6l%C3%BCm-3-ui-kit-belirlenmesi-tema-ve-stil-y%C3%B6netimi-1-55d5444df075?source=rss-89dc203e59e1------2)
+- [Stacked Zamanı — Bölüm 3: Sosyal Ağ Projesi Tanıtımı ve Stacked CLI ile Projeyi Oluşturma](https://codermuss.medium.com/stacked-zaman%C4%B1-b%C3%B6l%C3%BCm-3-sosyal-a%C4%9F-projesi-tan%C4%B1t%C4%B1m%C4%B1-ve-stacked-cli-ile-projeyi-olu%C5%9Fturma-6e01e68585b2?source=rss-89dc203e59e1------2)
+- [Stacked Zamanı — Bölüm 2: Stacked CLI](https://codermuss.medium.com/stacked-zaman%C4%B1-b%C3%B6l%C3%BCm-2-stacked-cli-3d00a2de133d?source=rss-89dc203e59e1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
