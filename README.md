@@ -1,36 +1,10 @@
-<img src="https://64.media.tumblr.com/3d4424d253425a54fbc4f399bbd7f65c/tumblr_mnd64b2dMs1r0ix14o1_500.gifv" align="right" width="400" >
+<img src="https://64.media.tumblr.com/3d4424d253425a54fbc4f399bbd7f65c/tumblr_mnd64b2dMs1r0ix14o1_500.gifv" align="center" height="100" width="100" ><br><br>
 
-### Hi there, I'm Mustafa. 😃
+# 💫 About Me:
+Welcome to my GitHub profile! Here, you’ll find a blend of professional and personal projects, ranging from mobile app development to backend services and CLI tools. My repositories showcase my commitment to building scalable, maintainable, and efficient software solutions.
 
-## Flutter | Golang
-
-# I play with computers.
-# Writing is also a reading.
-
-
-### Reach out to me
-
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg"/>][instagram]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webauthn.svg"/>][web]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
-
-
-
-### Tech I Use
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="30">][bos]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="30">][bos]
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="30">
-
-
-
-
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -41,21 +15,35 @@
 - [Stacked Zamanı — Bölüm 2: Stacked CLI](https://codermuss.medium.com/stacked-zaman%C4%B1-b%C3%B6l%C3%BCm-2-stacked-cli-3d00a2de133d?source=rss-89dc203e59e1------2)
 <!-- BLOG-POST-LIST:END -->
 
+## 🤝 Collaboration Opportunities
+
+I am open to collaborating on:  
+- **Mobile development projects** with a focus on Flutter.  
+- **Building scalable backend services** using Go.  
+- **Designing open-source tools and libraries** for the development community.  
+
+Feel free to explore my repositories, contribute, or reach out to discuss exciting ideas!  
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/themustik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codermuss) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@codermuss) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16321468) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mustafayilmazdev) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codermuss&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codermuss&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codermuss&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=codermuss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codermuss&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=codermuss&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<br/>
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=codermuss&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermuss&theme=radical">
-
-
-
-
-
-
-[instagram]: https://www.instagram.com/themustik/
-[web]: https://www.mustafa-yilmaz.dev
-[linkedin]: https://www.linkedin.com/in/mustafa-yılmaz-dev/
-[bos]: ""
 
