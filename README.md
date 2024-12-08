@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/3d4424d253425a54fbc4f399bbd7f65c/tumblr_mnd64b2dMs1r0ix14o1_500.gifv" align="center" height="100" width="100" ><br><br>
+<img src="https://64.media.tumblr.com/3d4424d253425a54fbc4f399bbd7f65c/tumblr_mnd64b2dMs1r0ix14o1_500.gifv" align="right" width="400" >
 
 # 💫 About Me:
 Welcome to my GitHub profile! Here, you’ll find a blend of professional and personal projects, ranging from mobile app development to backend services and CLI tools. My repositories showcase my commitment to building scalable, maintainable, and efficient software solutions.
