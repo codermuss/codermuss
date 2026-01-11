@@ -8,11 +8,11 @@ Welcome to my GitHub profile! Here, you’ll find a blend of professional and pe
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TLE ve 3-Way Partitioning](https://codermuss.medium.com/tle-ve-3-way-partitioning-820d1dfe4d42?source=rss-89dc203e59e1------2)
 - [Flutter’da Büyük Yol Ayrımı: 2026&#39;ya Girerken Tasarım Sistemlerine Veda &lpar;ve Merhaba&rpar;](https://codermuss.medium.com/flutterda-b%C3%BCy%C3%BCk-yol-ayr%C4%B1m%C4%B1-2026ya-girerken-tasar%C4%B1m-sistemlerine-veda-ve-merhaba-c6681231b44c?source=rss-89dc203e59e1------2)
 - [Timezones, Clocks, and Scheduling](https://codermuss.medium.com/timezones-clocks-and-scheduling-541796e27afb?source=rss-89dc203e59e1------2)
 - [Building RAG System: From Zero to Turkish HR Chatbot](https://codermuss.medium.com/building-rag-system-from-zero-to-turkish-hr-chatbot-641556d5f3ca?source=rss-89dc203e59e1------2)
 - [RAG Fundamentals: Core Components Every Developer Must Understand](https://codermuss.medium.com/rag-fundamentals-core-components-every-developer-must-understand-1e5c2b4fcb5b?source=rss-89dc203e59e1------2)
-- [Programming as an Art](https://codermuss.medium.com/programming-as-an-art-5b7d2b22741e?source=rss-89dc203e59e1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Collaboration Opportunities
