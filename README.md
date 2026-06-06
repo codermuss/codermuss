@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you’ll find a blend of professional and pe
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing a Hexagonal Go App: From Domain to Database](https://codermuss.medium.com/testing-a-hexagonal-go-app-from-domain-to-database-e425077bf203?source=rss-89dc203e59e1------2)
+- [Testing a Hexagonal Go App: From Domain to Database](https://codermuss.medium.com/testing-a-hexagonal-go-app-from-domain-to-database-d22a20e5a149?source=rss-89dc203e59e1------2)
 - [Transaction Management in Hexagonal Go: context.Context Is All You Need](https://codermuss.medium.com/transaction-management-in-hexagonal-go-context-context-is-all-you-need-9f2990b154ee?source=rss-89dc203e59e1------2)
 - [Domain Model vs. Persistence Model: Why Your Go Structs Need a Mapper](https://codermuss.medium.com/domain-model-vs-persistence-model-why-your-go-structs-need-a-mapper-cb45b6c20d75?source=rss-89dc203e59e1------2)
 - [Structuring Go Services: Beyond Hexagonal](https://codermuss.medium.com/structuring-go-services-beyond-hexagonal-c1813c5e48b8?source=rss-89dc203e59e1------2)
